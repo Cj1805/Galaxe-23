@@ -1,2 +1,6 @@
 Hello!! Welcome to Github.
+<<<<<<< HEAD
 Today's training.
+=======
+Today's training done.
+>>>>>>> 3deeade308d3498324d3baab36f5875bf1a555c0
